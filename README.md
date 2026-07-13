@@ -1,8 +1,8 @@
-<h1 data-importer="text" align="left">Hi 👋 I'm Ahmed!</h1>
+<h1 data-importer="text" align="left">Hi 👋 I'm Ahmed</h1>
 
 ###
 
-<p data-importer="text" align="left">I'm Ahmed Salad Abdi<br><br>Aspiring Cloud & DevOps Engineer | Linux Enthusiast | Home Lab Builder<br><br>I'm passionate about building real-world infrastructure, automating workflows, and continuously improving my IT skills through hands-on projects.</p>
+<p data-importer="text" align="left">Aspiring Cloud & DevOps Engineer | Linux Enthusiast | Home Lab Builder<br><br>I'm passionate about building real-world infrastructure, automating workflows, and continuously improving my IT skills through hands-on projects.</p>
 
 ###
 
@@ -78,5 +78,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/Ahmed-Salad/Ahmed-Salad/snake-output/snake.svg" alt="Snake animation" />
 
 ###
